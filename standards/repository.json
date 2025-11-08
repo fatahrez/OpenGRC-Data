@@ -102,5 +102,13 @@
     "description": "ISO/IEC 27001:2022 (ISO 27001) is an international standard that helps organizations manage the security of their information assets. It provides a management framework for implementing an ISMS (information security management system) to ensure the confidentiality, integrity, and availability of all corporate data (such as financial information, intellectual property, employee details or information managed by third parties).",
     "version": "2022",
     "url": "https://raw.githubusercontent.com/fatahrez/OpenGRC-Data/refs/heads/main/standards/ISO-27001-2022.json"
+  },
+  {
+    "name": "Swift Customer Security Controls Framework (CSCF) 2025",
+    "code": "CSCF_v2025",
+    "authority": "Swift CSCF Authority",
+    "description": "The Swift CSCF v2025 is a comprehensive framework for managing cybersecurity controls across organizations. It defines recommended practices, controls, and guidelines to enhance security posture.",
+    "version": "2025",
+    "url": "https://raw.githubusercontent.com/fatahrez/OpenGRC-Data/refs/heads/main/standards/CSCF_v2025.json"
   }
 ]
